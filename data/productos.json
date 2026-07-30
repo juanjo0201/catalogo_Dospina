@@ -1,0 +1,2363 @@
+[
+  {
+    "id": 1,
+    "categoria": "vestidos-largos",
+    "nombre": "Chifón con Lurex",
+    "talla": "L",
+    "material": "Chifón",
+    "precio": 200000,
+    "imagen": "imagenes-web/vestidos-largos/chifon-lurex.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 2,
+    "categoria": "vestidos-largos",
+    "nombre": "Top Terciopelo y Falda Lentejuela Degradada",
+    "talla": "M",
+    "material": "Terciopelo y lentejuela",
+    "precio": 250000,
+    "imagen": "imagenes-web/vestidos-largos/top-terciopelo-falda-lentejuela.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 3,
+    "categoria": "vestidos-largos",
+    "nombre": "Crepe Azul",
+    "talla": "M",
+    "material": "Crepe",
+    "precio": 170000,
+    "imagen": "imagenes-web/vestidos-largos/crepe-azul.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 4,
+    "categoria": "vestidos-largos",
+    "nombre": "Dipiur Azul Oscuro",
+    "talla": "S/M",
+    "material": null,
+    "precio": 180000,
+    "imagen": "imagenes-web/vestidos-largos/dipiur-azul-oscuro.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 5,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Blonda Negra",
+    "talla": "M",
+    "material": "Blonda",
+    "precio": 180000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-blonda-negra.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 6,
+    "categoria": "vestidos-largos",
+    "nombre": "Escuba Azul Marino con Capa de Blonda",
+    "talla": "S",
+    "material": "Blonda y Escuba",
+    "precio": 220000,
+    "imagen": "imagenes-web/vestidos-largos/escuba-azul-marino-con-capa-de-blonda.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 7,
+    "categoria": "vestidos-largos",
+    "nombre": "Top de Encaje y Falda de Chifón",
+    "talla": "M",
+    "material": "Chifón y Encaje",
+    "precio": 180000,
+    "imagen": "imagenes-web/vestidos-largos/top-de-encaje-y-falda-de-chifon.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 8,
+    "categoria": "vestidos-largos",
+    "nombre": "Chifón Azul Oscuro",
+    "talla": "M",
+    "material": "Chifón",
+    "precio": 2000000,
+    "imagen": "imagenes-web/vestidos-largos/chifon-azul-oscuro.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 9,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido en Licra Espejo",
+    "talla": "M",
+    "material": "Licra",
+    "precio": 210000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-en-licra-espejo.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 10,
+    "categoria": "vestidos-largos",
+    "nombre": "Malla Recamada",
+    "talla": "M",
+    "material": "Malla",
+    "precio": 230000,
+    "imagen": "imagenes-web/vestidos-largos/malla-recamada.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 11,
+    "categoria": "vestidos-largos",
+    "nombre": "Dipiuir Palo de Rosa",
+    "talla": "M",
+    "material": "Dipiuir",
+    "precio": 180000,
+    "imagen": "imagenes-web/vestidos-largos/dipiuir-palo-de-rosa.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 12,
+    "categoria": "vestidos-largos",
+    "nombre": "Chifón Plisado Azul Rey",
+    "talla": "M",
+    "material": "Chifón",
+    "precio": 200000,
+    "imagen": "imagenes-web/vestidos-largos/chifon-plisado-azul-rey.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 13,
+    "categoria": "vestidos-largos",
+    "nombre": "Malla Piel Bordada y Falla en Chifón",
+    "talla": "L",
+    "material": "Chifón y Malla",
+    "precio": 240000,
+    "imagen": "imagenes-web/vestidos-largos/malla-piel-bordada-y-falla-en-chifon.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 14,
+    "categoria": "vestidos-largos",
+    "nombre": "Top Terciopelo y Falda Lentejuela Degradada",
+    "talla": "M",
+    "material": "Lentejuela y Terciopelo",
+    "precio": 250000,
+    "imagen": "imagenes-web/vestidos-largos/top-terciopelo-y-falda-lentejuela-degradada.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 15,
+    "categoria": "vestidos-largos",
+    "nombre": "Lentejuela Palo de Rosa Talla M y L (dos Piezas Disponibles)",
+    "talla": null,
+    "material": "Lentejuela",
+    "precio": 240000,
+    "imagen": "imagenes-web/vestidos-largos/lentejuela-palo-de-rosa-talla-m-y-l-dos-piezas-dis.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 16,
+    "categoria": "vestidos-largos",
+    "nombre": "Top Dipiuir y Falda Razo",
+    "talla": "S",
+    "material": "Dipiuir y Razo",
+    "precio": 240000,
+    "imagen": "imagenes-web/vestidos-largos/top-dipiuir-y-falda-razo.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 17,
+    "categoria": "vestidos-largos",
+    "nombre": "Chifón Bordado con Flores de Lentejuelas y Canutillos",
+    "talla": "M",
+    "material": "Lentejuelas y Chifón y Bordado",
+    "precio": 200000,
+    "imagen": "imagenes-web/vestidos-largos/chifon-bordado-con-flores-de-lentejuelas-y-canutil.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 18,
+    "categoria": "vestidos-largos",
+    "nombre": "Tul Bordado Verde Esmeralda",
+    "talla": "L",
+    "material": "Tul y Bordado",
+    "precio": 250000,
+    "imagen": "imagenes-web/vestidos-largos/tul-bordado-verde-esmeralda.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 19,
+    "categoria": "vestidos-largos",
+    "nombre": "Malla Bordada Verde Menta",
+    "talla": "L",
+    "material": "Malla",
+    "precio": 250000,
+    "imagen": "imagenes-web/vestidos-largos/malla-bordada-verde-menta.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 20,
+    "categoria": "vestidos-largos",
+    "nombre": "Chifón Agumarina",
+    "talla": "S",
+    "material": "Chifón",
+    "precio": 170000,
+    "imagen": "imagenes-web/vestidos-largos/chifon-agumarina.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 21,
+    "categoria": "vestidos-largos",
+    "nombre": "Chifón Estampado",
+    "talla": "M",
+    "material": "Chifón",
+    "precio": 200000,
+    "imagen": "imagenes-web/vestidos-largos/chifon-estampado.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 22,
+    "categoria": "vestidos-largos",
+    "nombre": "Satín Amarillo",
+    "talla": "S",
+    "material": "Satín",
+    "precio": 170000,
+    "imagen": "imagenes-web/vestidos-largos/satin-amarillo.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 23,
+    "categoria": "vestidos-largos",
+    "nombre": "Chifón Estampado",
+    "talla": "S/M",
+    "material": "Chifón",
+    "precio": 200000,
+    "imagen": "imagenes-web/vestidos-largos/chifon-estampado-2.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 24,
+    "categoria": "vestidos-largos",
+    "nombre": "Lentejuela Oro Rosa",
+    "talla": "S/M",
+    "material": "Lentejuela",
+    "precio": 230000,
+    "imagen": "imagenes-web/vestidos-largos/lentejuela-oro-rosa.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 25,
+    "categoria": "vestidos-largos",
+    "nombre": "Lurex Dorado",
+    "talla": "M",
+    "material": "Lurex",
+    "precio": 180000,
+    "imagen": "imagenes-web/vestidos-largos/lurex-dorado-2.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 26,
+    "categoria": "vestidos-largos",
+    "nombre": "Lentejuela Oro Rosa",
+    "talla": "S/M",
+    "material": "Lentejuela",
+    "precio": 250000,
+    "imagen": "imagenes-web/vestidos-largos/lentejuela-oro-rosa-2.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 27,
+    "categoria": "vestidos-largos",
+    "nombre": "Malla Lurex",
+    "talla": "S/M",
+    "material": "Malla y Lurex",
+    "precio": 240000,
+    "imagen": "imagenes-web/vestidos-largos/malla-lurex.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 28,
+    "categoria": "vestidos-largos",
+    "nombre": "Tul con Apliques de Bordados",
+    "talla": "M",
+    "material": "Tul y Bordado",
+    "precio": 190000,
+    "imagen": "imagenes-web/vestidos-largos/tul-con-apliques-de-bordados.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 29,
+    "categoria": "vestidos-largos",
+    "nombre": "Lentejuela Oro Rosa",
+    "talla": "S/M",
+    "material": "Lentejuela",
+    "precio": 250000,
+    "imagen": "imagenes-web/vestidos-largos/lentejuela-oro-rosa-3.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 30,
+    "categoria": "vestidos-largos",
+    "nombre": "Lentejuela Oro Rosa",
+    "talla": "M",
+    "material": "Lentejuela",
+    "precio": 250000,
+    "imagen": "imagenes-web/vestidos-largos/lentejuela-oro-rosa-4.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 31,
+    "categoria": "vestidos-largos",
+    "nombre": "Tul Bordado",
+    "talla": "M/L",
+    "material": "Tul y Bordado",
+    "precio": 200000,
+    "imagen": "imagenes-web/vestidos-largos/tul-bordado.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 32,
+    "categoria": "vestidos-largos",
+    "nombre": "Lentejuela Oro Rosa",
+    "talla": "S",
+    "material": "Lentejuela",
+    "precio": 230000,
+    "imagen": "imagenes-web/vestidos-largos/lentejuela-oro-rosa-5.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 33,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Malla Tex",
+    "talla": "S",
+    "material": "Malla Tex",
+    "precio": 170000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-malla-tex.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 34,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Rojo de Blonda",
+    "talla": "S",
+    "material": "Blonda",
+    "precio": 190000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-rojo-de-blonda.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 35,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Blanco",
+    "talla": "M",
+    "material": null,
+    "precio": 180000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-blanco.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 36,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido de Velvetín Vino Estampado",
+    "talla": "M",
+    "material": null,
+    "precio": 200000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-de-velvetin-vino-estampado.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 37,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Satín Naranajl, con Bordado en Canutillo",
+    "talla": "S",
+    "material": "Satín y Bordado",
+    "precio": 180000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-satin-naranajl-con-bordado-en-canutillo.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 38,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Morado con Degradado en Rosado",
+    "talla": "S/M",
+    "material": null,
+    "precio": 250000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-morado-con-degradado-en-rosado.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 39,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Rojo de Raso con Encaje",
+    "talla": "M",
+    "material": "Encaje",
+    "precio": 250000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-rojo-de-raso-con-encaje.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 40,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Coral",
+    "talla": "M",
+    "material": null,
+    "precio": 220000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-coral.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 41,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Rojo Razo",
+    "talla": "M",
+    "material": "Razo",
+    "precio": 230000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-rojo-razo.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 42,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Morado Lentejuelas",
+    "talla": "M",
+    "material": "Lentejuelas",
+    "precio": 240000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-morado-lentejuelas.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 43,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Rojo Encaje",
+    "talla": "M",
+    "material": "Encaje",
+    "precio": 250000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-rojo-encaje-2.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 44,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Azul Rey Strech",
+    "talla": "M",
+    "material": "Strech",
+    "precio": 180000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-azul-rey-strech.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 45,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Azul Rey Strech",
+    "talla": "S",
+    "material": "Strech",
+    "precio": 190000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-azul-rey-strech-2.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 46,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Top Blanco de Encaje y Falda Plizada Azul Cielo",
+    "talla": "S",
+    "material": "Encaje",
+    "precio": 170000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-top-blanco-de-encaje-y-falda-plizada-azul.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 47,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Recamado con Lentejuelas",
+    "talla": "M",
+    "material": "Lentejuelas",
+    "precio": 250000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-recamado-con-lentejuelas.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 48,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Licra Espejo Vino",
+    "talla": "L",
+    "material": "Licra",
+    "precio": 210000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-licra-espejo-vino.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 49,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Negro Chifón",
+    "talla": "M",
+    "material": "Chifón",
+    "precio": 200000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-negro-chifon.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 50,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Gris Hielo",
+    "talla": "M",
+    "material": null,
+    "precio": 230000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-gris-hielo.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 51,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Estampado Beige con Mostaza",
+    "talla": "M",
+    "material": null,
+    "precio": 200000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-estampado-beige-con-mostaza.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 52,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Lurex Dorado",
+    "talla": "L",
+    "material": "Lurex",
+    "precio": 220000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-lurex-dorado.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 53,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Encaje Negro",
+    "talla": "M",
+    "material": "Encaje",
+    "precio": 230000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-encaje-negro.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 54,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Azul Rey",
+    "talla": "S",
+    "material": null,
+    "precio": 230000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-azul-rey.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 55,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Flecos Negro con Verde Menta",
+    "talla": "M",
+    "material": null,
+    "precio": 230000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-flecos-negro-con-verde-menta.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 56,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Negro Encaje",
+    "talla": "M",
+    "material": "Encaje",
+    "precio": 240000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-negro-encaje.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 57,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Negro",
+    "talla": "S",
+    "material": null,
+    "precio": 180000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-negro-2.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 58,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Negro Chifón",
+    "talla": "M",
+    "material": "Chifón",
+    "precio": 160000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-negro-chifon-2.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 59,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Plateado Lentejuelas",
+    "talla": "L",
+    "material": "Lentejuelas",
+    "precio": 240000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-plateado-lentejuelas-2.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 60,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Negro Lentejuelas",
+    "talla": "M",
+    "material": "Lentejuelas",
+    "precio": 230000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-negro-lentejuelas-2.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 61,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Negro Lurex",
+    "talla": "M/L",
+    "material": "Lurex",
+    "precio": 200000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-negro-lurex.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 62,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Negro Seda Plizada",
+    "talla": "S",
+    "material": "Seda",
+    "precio": 220000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-negro-seda-plizada.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 63,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Negro Encaje",
+    "talla": "XS",
+    "material": "Encaje",
+    "precio": 250000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-negro-encaje-2.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 64,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Negro Chifón y Blonda",
+    "talla": "L",
+    "material": "Chifón y Blonda",
+    "precio": 200000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-negro-chifon-y-blonda.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 65,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Lurex Vino con Negro",
+    "talla": "M",
+    "material": "Lurex",
+    "precio": 220000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-lurex-vino-con-negro.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 66,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Recamado en Lenteuelas y Chifón",
+    "talla": "L",
+    "material": "Chifón",
+    "precio": 230000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-recamado-en-lenteuelas-y-chifon.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 67,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Raso Estampando",
+    "talla": "S",
+    "material": null,
+    "precio": 250000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-raso-estampando.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 68,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Lurex Dorado con Negro",
+    "talla": "L",
+    "material": "Lurex",
+    "precio": 210000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-lurex-dorado-con-negro.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 69,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Negro Tul Tallas S y M (disponibles Dos Piezas)",
+    "talla": null,
+    "material": "Tul",
+    "precio": 220000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-negro-tul-tallas-s-y-m-disponibles-dos-pie.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 70,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Negro Lentejuelas",
+    "talla": "M",
+    "material": "Lentejuelas",
+    "precio": 240000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-negro-lentejuelas-3.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 71,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Plateado Lentejuelas",
+    "talla": "M",
+    "material": "Lentejuelas",
+    "precio": 240000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-plateado-lentejuelas-3.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 72,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Plateado Lentejuelas",
+    "talla": "M",
+    "material": "Lentejuelas",
+    "precio": 240000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-plateado-lentejuelas-4.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 73,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Azul Marino Lentejuelas Talla S y M (dos Piezas Disponibles",
+    "talla": null,
+    "material": "Lentejuelas",
+    "precio": 240000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-azul-marino-lentejuelas-talla-s-y-m-dos-pi.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 74,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Lurex Terracota",
+    "talla": "M",
+    "material": "Lurex",
+    "precio": 210000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-lurex-terracota.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 75,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Platerado Lentejuelas Tallas S y M (dos Piezas Disponibles)",
+    "talla": null,
+    "material": "Lentejuelas",
+    "precio": 250000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-platerado-lentejuelas-tallas-s-y-m-dos-pie.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 76,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Negro de Tul con Top de Lentejuelas Plateado",
+    "talla": "M",
+    "material": "Lentejuelas y Tul",
+    "precio": 200000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-negro-de-tul-con-top-de-lentejuelas-platea.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 77,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Plateado con Negro de Lentejuelas Tallas S",
+    "talla": null,
+    "material": "Lentejuelas",
+    "precio": 230000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-plateado-con-negro-de-lentejuelas-tallas-s.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 78,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Velvetín con Lurex",
+    "talla": "S",
+    "material": "Lurex",
+    "precio": 210000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-velvetin-con-lurex.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 79,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Lurex Plateado",
+    "talla": "M",
+    "material": "Lurex",
+    "precio": 210000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-lurex-plateado.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 80,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Gris",
+    "talla": "M",
+    "material": null,
+    "precio": 200000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-gris.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 81,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Negro Escuba",
+    "talla": "M",
+    "material": "Escuba",
+    "precio": 170000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-negro-escuba.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 82,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Lurex Plateado con Negro",
+    "talla": "S",
+    "material": "Lurex",
+    "precio": 180000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-lurex-plateado-con-negro.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 83,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Crepe Negro",
+    "talla": "M",
+    "material": "Crepe",
+    "precio": 190000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-crepe-negro.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 84,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Lentejuelas Azul Marino",
+    "talla": "XS",
+    "material": "Lentejuelas",
+    "precio": 250000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-lentejuelas-azul-marino.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 85,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Beige Encaje",
+    "talla": "M",
+    "material": "Encaje",
+    "precio": 220000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-beige-encaje.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 86,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Vino Escuba",
+    "talla": "M",
+    "material": "Escuba",
+    "precio": 200000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-vino-escuba.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 87,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Negro Chifón",
+    "talla": "S",
+    "material": "Chifón",
+    "precio": 170000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-negro-chifon-3.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 88,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Dorado Lentejuelas",
+    "talla": "S",
+    "material": "Lentejuelas",
+    "precio": 230000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-dorado-lentejuelas.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 89,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Amarillo Plizado Chifón Talla S y M (dos Piezas Disponibles)",
+    "talla": null,
+    "material": "Chifón",
+    "precio": 220000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-amarillo-plizado-chifon-talla-s-y-m-dos-pi.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 90,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Satín Azul Rey",
+    "talla": "XS",
+    "material": "Satín",
+    "precio": 190000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-satin-azul-rey.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 91,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Velvetín Vinotinto",
+    "talla": "S/M",
+    "material": null,
+    "precio": 200000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-velvetin-vinotinto.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 92,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Negro Polilicra",
+    "talla": "M",
+    "material": "Licra",
+    "precio": 170000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-negro-polilicra.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 93,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Chfón",
+    "talla": "M",
+    "material": null,
+    "precio": 190000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-chfon.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 94,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Azul Encaje",
+    "talla": "L",
+    "material": "Encaje",
+    "precio": 210000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-azul-encaje.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 95,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Negro Escuba",
+    "talla": "S",
+    "material": "Escuba",
+    "precio": 180000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-negro-escuba-2.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 96,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Rojo Chfón",
+    "talla": "S",
+    "material": null,
+    "precio": 200000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-rojo-chfon.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 97,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Rojo Escuba",
+    "talla": "S/M",
+    "material": "Escuba",
+    "precio": 190000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-rojo-escuba-2.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 98,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Moca Lentejuelas",
+    "talla": "L",
+    "material": "Lentejuelas",
+    "precio": 240000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-moca-lentejuelas.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 99,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Palo de Rosa Lentejuelas",
+    "talla": "S",
+    "material": "Lentejuelas",
+    "precio": 240000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-palo-de-rosa-lentejuelas.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 100,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Palo de Rosa",
+    "talla": "S",
+    "material": null,
+    "precio": 250000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-palo-de-rosa.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 101,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido de Tul Vinotitno",
+    "talla": "M",
+    "material": "Tul",
+    "precio": 200000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-de-tul-vinotitno.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 102,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Satín Fashion Azul Rey",
+    "talla": "XS",
+    "material": "Satín",
+    "precio": 220000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-satin-fashion-azul-rey.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 103,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Palo de Rosa Lurex",
+    "talla": "M",
+    "material": "Lurex",
+    "precio": 210000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-palo-de-rosa-lurex.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 104,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Rojo Brillantina",
+    "talla": "S",
+    "material": null,
+    "precio": 230000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-rojo-brillantina.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 105,
+    "categoria": "vestidos-largos",
+    "nombre": "Vestido Chifón Estampado",
+    "talla": "L",
+    "material": "Chifón",
+    "precio": 210000,
+    "imagen": "imagenes-web/vestidos-largos/vestido-chifon-estampado.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 106,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Gris en Tela Lurex",
+    "talla": "S",
+    "material": "Lurex",
+    "precio": 60000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-gris-lurex.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 107,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Lurex Dorado",
+    "talla": "S/M",
+    "material": "Lurex",
+    "precio": 80000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-lurex-dorado.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 108,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Blanco con Negro Acetato",
+    "talla": "M",
+    "material": "Acetato",
+    "precio": 80000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-blanco-con-negro-acetato.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 109,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Blanco con Negro Encaje",
+    "talla": "M",
+    "material": "Encaje",
+    "precio": 90000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-blanco-con-negro-encaje.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 110,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Gris con Negro de Lentejuelas",
+    "talla": "M",
+    "material": "Lentejuelas",
+    "precio": 100000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-gris-con-negro-de-lentejuelas.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 111,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Dorado con Flores de Lentejuelas",
+    "talla": "M",
+    "material": "Lentejuelas",
+    "precio": 110000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-dorado-con-flores-de-lentejuelas.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 112,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido de Estampado Piel de Pitón Drill Stretch",
+    "talla": "M",
+    "material": "Drill Stretch y Piel de Pitón",
+    "precio": 100000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-de-estampado-piel-de-piton-drill-stretch.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 113,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Negro con Dorado Malla con Lentejuelas",
+    "talla": "S",
+    "material": "Lentejuelas y Malla",
+    "precio": 90000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-negro-con-dorado-malla-con-lentejuelas.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 114,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Plateado Lentejuelas",
+    "talla": "M",
+    "material": "Lentejuelas",
+    "precio": 100000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-plateado-lentejuelas.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 115,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido de Flecos Negro",
+    "talla": "XS",
+    "material": null,
+    "precio": 90000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-de-flecos-negro.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 116,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido de Dorado con Negro Lentejuelas",
+    "talla": "S",
+    "material": "Lentejuelas",
+    "precio": 110000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-de-dorado-con-negro-lentejuelas.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 117,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Coral de Chifón",
+    "talla": "L",
+    "material": "Chifón",
+    "precio": 80000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-coral-de-chifon.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 118,
+    "categoria": "vestidos-cortos",
+    "nombre": "Falda y Top Palo de Rosa de Tul",
+    "talla": "M",
+    "material": "Tul",
+    "precio": 120000,
+    "imagen": "imagenes-web/vestidos-cortos/falda-y-top-palo-de-rosa-de-tul.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 119,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Negro de Chifón con Cuello Plizado",
+    "talla": "M",
+    "material": "Chifón",
+    "precio": 150000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-negro-de-chifon-con-cuello-plizado.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 120,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Vinotinto Chifón",
+    "talla": "S",
+    "material": "Chifón",
+    "precio": 60000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-vinotinto-chifon.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 121,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Azul Marino de Tafetán y Encaje",
+    "talla": "XS",
+    "material": "Tafetán y Encaje",
+    "precio": 100000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-azul-marino-de-tafetan-y-encaje.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 122,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Estampado Blanco con Negro",
+    "talla": "S",
+    "material": null,
+    "precio": 60000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-estampado-blanco-con-negro.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 123,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Verde Militar Tul Bordado con Lentejuelas y Mostacillas",
+    "talla": "M",
+    "material": "Lentejuelas y Tul y Mostacillas y Bordado",
+    "precio": 100000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-verde-militar-tul-bordado-con-lentejuelas.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 124,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Coral Satín",
+    "talla": "M",
+    "material": "Satín",
+    "precio": 80000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-coral-satin.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 125,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido de Chifón con Blonda con Lurex",
+    "talla": "M",
+    "material": "Chifón y Blonda y Lurex",
+    "precio": 70000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-de-chifon-con-blonda-con-lurex.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 126,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Mostaza Punto Roma",
+    "talla": "L",
+    "material": "Punto Roma",
+    "precio": 70000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-mostaza-punto-roma.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 127,
+    "categoria": "vestidos-cortos",
+    "nombre": "Top Dipiuir, con Falda en Tablas en Escuba",
+    "talla": "S/M",
+    "material": "Escuba y Dipiuir",
+    "precio": 120000,
+    "imagen": "imagenes-web/vestidos-cortos/top-dipiuir-con-falda-en-tablas-en-escuba.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 128,
+    "categoria": "vestidos-cortos",
+    "nombre": "Tafetán Brocado en Gris Plata",
+    "talla": "M",
+    "material": "Tafetán y Brocado",
+    "precio": 120000,
+    "imagen": "imagenes-web/vestidos-cortos/tafetan-brocado-en-gris-plata.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 129,
+    "categoria": "vestidos-cortos",
+    "nombre": "Tul Bordado Dorado Mate",
+    "talla": "M",
+    "material": "Tul y Bordado",
+    "precio": 90000,
+    "imagen": "imagenes-web/vestidos-cortos/tul-bordado-dorado-mate.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 130,
+    "categoria": "vestidos-cortos",
+    "nombre": "Lica Lurex Strech",
+    "talla": "S/M",
+    "material": "Lica y Lurex y Strech",
+    "precio": 60000,
+    "imagen": "imagenes-web/vestidos-cortos/lica-lurex-strech.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 131,
+    "categoria": "vestidos-cortos",
+    "nombre": "Tafetán Fucsia",
+    "talla": "M",
+    "material": "Tafetán",
+    "precio": 90000,
+    "imagen": "imagenes-web/vestidos-cortos/tafetan-fucsia.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 132,
+    "categoria": "vestidos-cortos",
+    "nombre": "Malla de Lentejuelas",
+    "talla": "S/M",
+    "material": "Lentejuelas y Malla",
+    "precio": 90000,
+    "imagen": "imagenes-web/vestidos-cortos/malla-de-lentejuelas.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 133,
+    "categoria": "vestidos-cortos",
+    "nombre": "Licra Strech con Malla Tex",
+    "talla": "S/M",
+    "material": "Malla Tex y Licra y Strech",
+    "precio": 60000,
+    "imagen": "imagenes-web/vestidos-cortos/licra-strech-con-malla-tex.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 134,
+    "categoria": "vestidos-cortos",
+    "nombre": "Escuba Estampada",
+    "talla": "S",
+    "material": "Escuba",
+    "precio": 100000,
+    "imagen": "imagenes-web/vestidos-cortos/escuba-estampada.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 135,
+    "categoria": "vestidos-cortos",
+    "nombre": "Top de Licra y Falda en Lentejuela",
+    "talla": "S/M",
+    "material": "Lentejuela y Licra",
+    "precio": 110000,
+    "imagen": "imagenes-web/vestidos-cortos/top-de-licra-y-falda-en-lentejuela.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 136,
+    "categoria": "vestidos-cortos",
+    "nombre": "Lurex Strech",
+    "talla": "S/M",
+    "material": "Lurex y Strech",
+    "precio": 60000,
+    "imagen": "imagenes-web/vestidos-cortos/lurex-strech.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 137,
+    "categoria": "vestidos-cortos",
+    "nombre": "Top Lentejuelas y Falda de Tul",
+    "talla": "S/M",
+    "material": "Lentejuelas y Tul",
+    "precio": 70000,
+    "imagen": "imagenes-web/vestidos-cortos/top-lentejuelas-y-falda-de-tul.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 138,
+    "categoria": "vestidos-cortos",
+    "nombre": "Crepe Negro",
+    "talla": "M",
+    "material": "Crepe",
+    "precio": 70000,
+    "imagen": "imagenes-web/vestidos-cortos/crepe-negro.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 139,
+    "categoria": "vestidos-cortos",
+    "nombre": "Lentejuela Palo de Rosa",
+    "talla": "S",
+    "material": "Lentejuela",
+    "precio": 90000,
+    "imagen": "imagenes-web/vestidos-cortos/lentejuela-palo-de-rosa.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 140,
+    "categoria": "vestidos-cortos",
+    "nombre": "Tul de Negro a Gris",
+    "talla": "S",
+    "material": "Tul",
+    "precio": 100000,
+    "imagen": "imagenes-web/vestidos-cortos/tul-de-negro-a-gris.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 141,
+    "categoria": "vestidos-cortos",
+    "nombre": "Licra con Top en Lentejuela",
+    "talla": "M",
+    "material": "Lentejuela y Licra",
+    "precio": 90000,
+    "imagen": "imagenes-web/vestidos-cortos/licra-con-top-en-lentejuela.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 142,
+    "categoria": "vestidos-cortos",
+    "nombre": "Dipiuir Azul Rey",
+    "talla": "S",
+    "material": "Dipiuir",
+    "precio": 90000,
+    "imagen": "imagenes-web/vestidos-cortos/dipiuir-azul-rey.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 143,
+    "categoria": "vestidos-cortos",
+    "nombre": "Licra Negra",
+    "talla": "S",
+    "material": "Licra",
+    "precio": 60000,
+    "imagen": "imagenes-web/vestidos-cortos/licra-negra.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 144,
+    "categoria": "vestidos-cortos",
+    "nombre": "Dipiur Verde Menta",
+    "talla": "S",
+    "material": null,
+    "precio": 80000,
+    "imagen": "imagenes-web/vestidos-cortos/dipiur-verde-menta.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 145,
+    "categoria": "vestidos-cortos",
+    "nombre": "Lentejuela Stretch",
+    "talla": "L",
+    "material": "Lentejuela y Stretch",
+    "precio": 80000,
+    "imagen": "imagenes-web/vestidos-cortos/lentejuela-stretch.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 146,
+    "categoria": "vestidos-cortos",
+    "nombre": "Lentejuela Vinotinto",
+    "talla": "S/M",
+    "material": "Lentejuela",
+    "precio": 100000,
+    "imagen": "imagenes-web/vestidos-cortos/lentejuela-vinotinto.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 147,
+    "categoria": "vestidos-cortos",
+    "nombre": "Escuba Stretch Estampada",
+    "talla": "XS",
+    "material": "Stretch y Escuba",
+    "precio": 70000,
+    "imagen": "imagenes-web/vestidos-cortos/escuba-stretch-estampada.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 148,
+    "categoria": "vestidos-cortos",
+    "nombre": "Top en Dipiuir Azul y Falda en Tafetán",
+    "talla": "S/M",
+    "material": "Tafetán y Dipiuir",
+    "precio": 150000,
+    "imagen": "imagenes-web/vestidos-cortos/top-en-dipiuir-azul-y-falda-en-tafetan.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 149,
+    "categoria": "vestidos-cortos",
+    "nombre": "Lurex Dorado",
+    "talla": "S",
+    "material": "Lurex",
+    "precio": 60000,
+    "imagen": "imagenes-web/vestidos-cortos/lurex-dorado.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 150,
+    "categoria": "vestidos-cortos",
+    "nombre": "Malla de Lentejuelas",
+    "talla": "M",
+    "material": "Lentejuelas y Malla",
+    "precio": 120000,
+    "imagen": "imagenes-web/vestidos-cortos/malla-de-lentejuelas-2.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 151,
+    "categoria": "vestidos-cortos",
+    "nombre": "Top en Lentejuela y Falda en Satín Cola de Pato",
+    "talla": "S/M",
+    "material": "Lentejuela y Satín",
+    "precio": 90000,
+    "imagen": "imagenes-web/vestidos-cortos/top-en-lentejuela-y-falda-en-satin-cola-de-pato.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 152,
+    "categoria": "vestidos-cortos",
+    "nombre": "Chifón Negro Tirante y Escote en Canutillo",
+    "talla": "S",
+    "material": "Chifón",
+    "precio": 60000,
+    "imagen": "imagenes-web/vestidos-cortos/chifon-negro-tirante-y-escote-en-canutillo.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 153,
+    "categoria": "vestidos-cortos",
+    "nombre": "Lentejuela Azul Marino",
+    "talla": "S",
+    "material": "Lentejuela",
+    "precio": 100000,
+    "imagen": "imagenes-web/vestidos-cortos/lentejuela-azul-marino.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 154,
+    "categoria": "vestidos-cortos",
+    "nombre": "Escuba Blanco",
+    "talla": "S",
+    "material": "Escuba",
+    "precio": 50000,
+    "imagen": "imagenes-web/vestidos-cortos/escuba-blanco.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 155,
+    "categoria": "vestidos-cortos",
+    "nombre": "Punto Roma",
+    "talla": "S",
+    "material": "Punto Roma",
+    "precio": 90000,
+    "imagen": "imagenes-web/vestidos-cortos/punto-roma.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 156,
+    "categoria": "vestidos-cortos",
+    "nombre": "Enterizo Verde Crepé",
+    "talla": "M",
+    "material": null,
+    "precio": 80000,
+    "imagen": "imagenes-web/vestidos-cortos/enterizo-verde-crepe.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 157,
+    "categoria": "vestidos-cortos",
+    "nombre": "Blonda Palo de Rosa",
+    "talla": "S",
+    "material": "Blonda",
+    "precio": 80000,
+    "imagen": "imagenes-web/vestidos-cortos/blonda-palo-de-rosa.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 158,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Negro Top de Blonda y Falda Chifón",
+    "talla": "M",
+    "material": "Chifón y Blonda",
+    "precio": 80000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-negro-top-de-blonda-y-falda-chifon.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 159,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Verde",
+    "talla": "S",
+    "material": null,
+    "precio": 70000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-verde.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 160,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Chifón Negro",
+    "talla": "M",
+    "material": "Chifón",
+    "precio": 50000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-chifon-negro.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 161,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Blanco Encaje",
+    "talla": "M",
+    "material": "Encaje",
+    "precio": 100000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-blanco-encaje.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 162,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Negro de Lunares Chifón",
+    "talla": "M",
+    "material": "Chifón",
+    "precio": 70000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-negro-de-lunares-chifon.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 163,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Negro de Encaje",
+    "talla": "M",
+    "material": "Encaje",
+    "precio": 70000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-negro-de-encaje.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 164,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Tafetán Coral",
+    "talla": "M",
+    "material": "Tafetán",
+    "precio": 100000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-tafetan-coral.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 165,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Negro",
+    "talla": "XS",
+    "material": null,
+    "precio": 80000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-negro.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 166,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Rojo Escuba",
+    "talla": "S",
+    "material": "Escuba",
+    "precio": 70000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-rojo-escuba.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 167,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Azul Estampado",
+    "talla": "L",
+    "material": null,
+    "precio": 80000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-azul-estampado.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 168,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Lentejuelas",
+    "talla": "S",
+    "material": "Lentejuelas",
+    "precio": 70000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-lentejuelas.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 169,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Rojo Tafetán",
+    "talla": "S",
+    "material": "Tafetán",
+    "precio": 100000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-rojo-tafetan.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 170,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Rojo Encaje",
+    "talla": "XS",
+    "material": "Encaje",
+    "precio": 90000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-rojo-encaje.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 171,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido de Lentejuelas Negro",
+    "talla": "L/XL",
+    "material": "Lentejuelas",
+    "precio": 120000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-de-lentejuelas-negro.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 172,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Negro Velvetin",
+    "talla": "M",
+    "material": null,
+    "precio": 90000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-negro-velvetin.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 173,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Negro Lentejuelas",
+    "talla": "S",
+    "material": "Lentejuelas",
+    "precio": 100000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-negro-lentejuelas.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 174,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestido Palo de Roja con Blonda Negra",
+    "talla": "S",
+    "material": "Blonda",
+    "precio": 110000,
+    "imagen": "imagenes-web/vestidos-cortos/vestido-palo-de-roja-con-blonda-negra.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 175,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestidos Palo de Rosa de Tul con Lentejuelas",
+    "talla": "S",
+    "material": "Lentejuelas y Tul",
+    "precio": 110000,
+    "imagen": "imagenes-web/vestidos-cortos/vestidos-palo-de-rosa-de-tul-con-lentejuelas.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 176,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestidos de Dipiur Rojo",
+    "talla": "M",
+    "material": null,
+    "precio": 100000,
+    "imagen": "imagenes-web/vestidos-cortos/vestidos-de-dipiur-rojo.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 177,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestidos Blanco",
+    "talla": "S",
+    "material": null,
+    "precio": 120000,
+    "imagen": "imagenes-web/vestidos-cortos/vestidos-blanco.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 178,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestidos Escuba Vino",
+    "talla": "M",
+    "material": "Escuba",
+    "precio": 110000,
+    "imagen": "imagenes-web/vestidos-cortos/vestidos-escuba-vino.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 179,
+    "categoria": "vestidos-cortos",
+    "nombre": "Vestidos Lentejuelas",
+    "talla": "M",
+    "material": "Lentejuelas",
+    "precio": 130000,
+    "imagen": "imagenes-web/vestidos-cortos/vestidos-lentejuelas.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 180,
+    "categoria": "faldas",
+    "nombre": "Falda de Lentejuelas Palo de Rosa",
+    "talla": "S",
+    "material": "Lentejuela",
+    "precio": 50000,
+    "imagen": "imagenes-web/faldas/falda-lentejuelas-palo-de-rosa.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 181,
+    "categoria": "faldas",
+    "nombre": "Falda de Lentejuelas Negra",
+    "talla": "M",
+    "material": "Lentejuela",
+    "precio": 50000,
+    "imagen": "imagenes-web/faldas/falda-lentejuelas-negra.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 182,
+    "categoria": "faldas",
+    "nombre": "Falda Plizada Dorada Lamé",
+    "talla": "M",
+    "material": "Lamé",
+    "precio": 40000,
+    "imagen": "imagenes-web/faldas/falda-plizada-dorada-lame.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 183,
+    "categoria": "faldas",
+    "nombre": "Falda Negra con Franjas Doradas Lurex",
+    "talla": "S",
+    "material": "Lurex",
+    "precio": 40000,
+    "imagen": "imagenes-web/faldas/falda-negra-con-franjas-doradas-lurex.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 184,
+    "categoria": "faldas",
+    "nombre": "Falda Negra Tallada de Lentejuelas con Plateado",
+    "talla": "M",
+    "material": "Lentejuelas",
+    "precio": 30000,
+    "imagen": "imagenes-web/faldas/falda-negra-tallada-de-lentejuelas-con-plateado.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 185,
+    "categoria": "faldas",
+    "nombre": "Falda Negra con Dorado de Lentejuela",
+    "talla": "M",
+    "material": "Lentejuela",
+    "precio": 30000,
+    "imagen": "imagenes-web/faldas/falda-negra-con-dorado-de-lentejuela.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 186,
+    "categoria": "faldas",
+    "nombre": "Falda Estampada Lentejuela",
+    "talla": "M",
+    "material": "Lentejuela",
+    "precio": 30000,
+    "imagen": "imagenes-web/faldas/falda-estampada-lentejuela.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 187,
+    "categoria": "faldas",
+    "nombre": "Falda Estampada Negra con Flores",
+    "talla": "M",
+    "material": null,
+    "precio": 30000,
+    "imagen": "imagenes-web/faldas/falda-estampada-negra-con-flores.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 188,
+    "categoria": "faldas",
+    "nombre": "Falda Estampada Negra con Flores",
+    "talla": "M",
+    "material": null,
+    "precio": 40000,
+    "imagen": "imagenes-web/faldas/falda-estampada-negra-con-flores-2.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 189,
+    "categoria": "faldas",
+    "nombre": "Falda Amarillas Estampada de Flores",
+    "talla": "M",
+    "material": null,
+    "precio": 30000,
+    "imagen": "imagenes-web/faldas/falda-amarillas-estampada-de-flores.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 190,
+    "categoria": "faldas",
+    "nombre": "Falda Negra Escuba",
+    "talla": "M",
+    "material": "Escuba",
+    "precio": 40000,
+    "imagen": "imagenes-web/faldas/falda-negra-escuba.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 191,
+    "categoria": "faldas",
+    "nombre": "Falda Amarilla de Flores Estampada Escuba",
+    "talla": "M",
+    "material": "Escuba",
+    "precio": 40000,
+    "imagen": "imagenes-web/faldas/falda-amarilla-de-flores-estampada-escuba.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 192,
+    "categoria": "faldas",
+    "nombre": "Falda Drill Negra",
+    "talla": "M",
+    "material": "Drill",
+    "precio": 50000,
+    "imagen": "imagenes-web/faldas/falda-drill-negra.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 193,
+    "categoria": "faldas",
+    "nombre": "Falda de Malla Tex Negra",
+    "talla": "M",
+    "material": "Malla Tex",
+    "precio": 30000,
+    "imagen": "imagenes-web/faldas/falda-de-malla-tex-negra.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 194,
+    "categoria": "faldas",
+    "nombre": "Falda Tafetán Azul Rey",
+    "talla": "M",
+    "material": "Tafetán",
+    "precio": 50000,
+    "imagen": "imagenes-web/faldas/falda-tafetan-azul-rey.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 195,
+    "categoria": "faldas",
+    "nombre": "Falda Negra Escuba",
+    "talla": "M",
+    "material": "Escuba",
+    "precio": 30000,
+    "imagen": "imagenes-web/faldas/falda-negra-escuba-2.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 196,
+    "categoria": "bolsos",
+    "nombre": "Sobre con Cadena Plateado y Negro",
+    "talla": null,
+    "material": "Satín con cadena metálica",
+    "precio": 50000,
+    "imagen": "imagenes-web/bolsos/sobre-cadena-plateado.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 197,
+    "categoria": "bolsos",
+    "nombre": "Sobre Negro Brillante con Dorado",
+    "talla": null,
+    "material": "Cuero sintético brillante",
+    "precio": 40000,
+    "imagen": "imagenes-web/bolsos/sobre-negro-brillante-dorado.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 198,
+    "categoria": "bolsos",
+    "nombre": "Sobre Dorado Brillante con Cadena",
+    "talla": null,
+    "material": null,
+    "precio": 50000,
+    "imagen": "imagenes-web/bolsos/sobre-dorado-brillante-con-cadena.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 199,
+    "categoria": "bolsos",
+    "nombre": "Bolso Dorado con Cadena",
+    "talla": null,
+    "material": null,
+    "precio": 50000,
+    "imagen": "imagenes-web/bolsos/bolso-dorado-con-cadena.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 200,
+    "categoria": "bolsos",
+    "nombre": "Sobre Oro Rosa con Cadena",
+    "talla": null,
+    "material": null,
+    "precio": 30000,
+    "imagen": "imagenes-web/bolsos/sobre-oro-rosa-con-cadena.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 201,
+    "categoria": "bolsos",
+    "nombre": "Sobre con Dipiuir Negro y Raso Azul con Cadena",
+    "talla": null,
+    "material": "Dipiuir",
+    "precio": 50000,
+    "imagen": "imagenes-web/bolsos/sobre-con-dipiuir-negro-y-raso-azul-con-cadena.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 202,
+    "categoria": "bolsos",
+    "nombre": "Sobre con Dipiuir Beige y Dorado",
+    "talla": null,
+    "material": "Dipiuir",
+    "precio": 50000,
+    "imagen": "imagenes-web/bolsos/sobre-con-dipiuir-beige-y-dorado.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 203,
+    "categoria": "bolsos",
+    "nombre": "Sobre Oro Rosa",
+    "talla": null,
+    "material": null,
+    "precio": 50000,
+    "imagen": "imagenes-web/bolsos/sobre-oro-rosa.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 204,
+    "categoria": "bolsos",
+    "nombre": "Bolso Mostaza, Negro y Rojo",
+    "talla": null,
+    "material": null,
+    "precio": 50000,
+    "imagen": "imagenes-web/bolsos/bolso-mostaza-negro-y-rojo.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 205,
+    "categoria": "bolsos",
+    "nombre": "Sobre Raso Rojo",
+    "talla": null,
+    "material": null,
+    "precio": 50000,
+    "imagen": "imagenes-web/bolsos/sobre-raso-rojo.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 206,
+    "categoria": "bolsos",
+    "nombre": "Bolso Verde / Negro",
+    "talla": null,
+    "material": null,
+    "precio": 50000,
+    "imagen": "imagenes-web/bolsos/bolso-verde-negro.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 207,
+    "categoria": "bolsos",
+    "nombre": "Bolso Negro con Cadena Dorada",
+    "talla": null,
+    "material": null,
+    "precio": 50000,
+    "imagen": "imagenes-web/bolsos/bolso-negro-con-cadena-dorada.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 208,
+    "categoria": "chaquetas",
+    "nombre": "Chaqueta Lentejuela",
+    "talla": "M",
+    "material": "Lentejuela",
+    "precio": 60000,
+    "imagen": "imagenes-web/chaquetas/chaqueta-lentejuela.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 209,
+    "categoria": "chaquetas",
+    "nombre": "Chaqueta Channel",
+    "talla": "M",
+    "material": "Tweed estilo Channel",
+    "precio": 70000,
+    "imagen": "imagenes-web/chaquetas/chaqueta-channel.webp",
+    "estado": "agotado"
+  },
+  {
+    "id": 210,
+    "categoria": "chaquetas",
+    "nombre": "Chaqueta Negra",
+    "talla": "M",
+    "material": null,
+    "precio": 60000,
+    "imagen": "imagenes-web/chaquetas/chaqueta-negra.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 211,
+    "categoria": "chaquetas",
+    "nombre": "Chaqueta Lentejuelas Plateado",
+    "talla": "M",
+    "material": "Lentejuelas",
+    "precio": 70000,
+    "imagen": "imagenes-web/chaquetas/chaqueta-lentejuelas-plateado.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 212,
+    "categoria": "chaquetas",
+    "nombre": "Chaqueta Lentejuelas",
+    "talla": "M",
+    "material": "Lentejuelas",
+    "precio": 60000,
+    "imagen": "imagenes-web/chaquetas/chaqueta-lentejuelas.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 213,
+    "categoria": "chaquetas",
+    "nombre": "Chaleco Peluche",
+    "talla": "M/L",
+    "material": "Peluche",
+    "precio": 50000,
+    "imagen": "imagenes-web/chaquetas/chaleco-peluche.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 214,
+    "categoria": "chaquetas",
+    "nombre": "Chaqueta Peluche",
+    "talla": "M/L",
+    "material": "Peluche",
+    "precio": 60000,
+    "imagen": "imagenes-web/chaquetas/chaqueta-peluche.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 215,
+    "categoria": "chaquetas",
+    "nombre": "Chaqueta Peluche Azul",
+    "talla": "L",
+    "material": "Peluche",
+    "precio": 60000,
+    "imagen": "imagenes-web/chaquetas/chaqueta-peluche-azul.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 216,
+    "categoria": "chaquetas",
+    "nombre": "Chaqueta Peluche Gris y Beige",
+    "talla": "M",
+    "material": "Peluche",
+    "precio": 60000,
+    "imagen": "imagenes-web/chaquetas/chaqueta-peluche-gris-y-beige.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 217,
+    "categoria": "chaquetas",
+    "nombre": "Chaqueta Lurex Azul",
+    "talla": "S",
+    "material": "Lurex",
+    "precio": 70000,
+    "imagen": "imagenes-web/chaquetas/chaqueta-lurex-azul.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 218,
+    "categoria": "chaquetas",
+    "nombre": "Chaqueta Encaje Negro",
+    "talla": "M",
+    "material": "Encaje",
+    "precio": 50000,
+    "imagen": "imagenes-web/chaquetas/chaqueta-encaje-negro.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 219,
+    "categoria": "zapatos",
+    "nombre": "Sandalia Color Palo de Rosa",
+    "talla": "37",
+    "material": "Cuero sintético",
+    "precio": 25000,
+    "imagen": "imagenes-web/zapatos/sandalia-palo-de-rosa.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 220,
+    "categoria": "zapatos",
+    "nombre": "Tacón Terciopelo Negro",
+    "talla": "40",
+    "material": "Terciopelo",
+    "precio": 40000,
+    "imagen": "imagenes-web/zapatos/tacon-terciopelo-negro.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 221,
+    "categoria": "zapatos",
+    "nombre": "Zapato Palo de Rosa",
+    "talla": "36",
+    "material": null,
+    "precio": 25000,
+    "imagen": "imagenes-web/zapatos/zapato-palo-de-rosa.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 222,
+    "categoria": "zapatos",
+    "nombre": "Zapato Perla",
+    "talla": "37",
+    "material": null,
+    "precio": 30000,
+    "imagen": "imagenes-web/zapatos/zapato-perla.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 223,
+    "categoria": "zapatos",
+    "nombre": "Zapato Dorado",
+    "talla": "37",
+    "material": null,
+    "precio": 30000,
+    "imagen": "imagenes-web/zapatos/zapato-dorado.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 224,
+    "categoria": "zapatos",
+    "nombre": "Zapato Dorado con Taches",
+    "talla": "37",
+    "material": null,
+    "precio": 30000,
+    "imagen": "imagenes-web/zapatos/zapato-dorado-con-taches.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 225,
+    "categoria": "zapatos",
+    "nombre": "Zapato Plateado",
+    "talla": "37",
+    "material": null,
+    "precio": 30000,
+    "imagen": "imagenes-web/zapatos/zapato-plateado.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 226,
+    "categoria": "zapatos",
+    "nombre": "Zapato Miel/ Camel",
+    "talla": "36",
+    "material": null,
+    "precio": 25000,
+    "imagen": "imagenes-web/zapatos/zapato-miel-camel.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 227,
+    "categoria": "zapatos",
+    "nombre": "Zapato Palo de Rosa",
+    "talla": "39",
+    "material": null,
+    "precio": 35000,
+    "imagen": "imagenes-web/zapatos/zapato-palo-de-rosa-2.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 228,
+    "categoria": "zapatos",
+    "nombre": "Zapato Negro con Cadenas (nuevos)",
+    "talla": "38",
+    "material": null,
+    "precio": 100000,
+    "imagen": "imagenes-web/zapatos/zapato-negro-con-cadenas-nuevos.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 229,
+    "categoria": "tops-bodys",
+    "nombre": "Body Negro Malla Negra",
+    "talla": "S",
+    "material": "Malla",
+    "precio": 40000,
+    "imagen": "imagenes-web/tops-bodys/body-negro-malla.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 230,
+    "categoria": "tops-bodys",
+    "nombre": "Top Negro",
+    "talla": "S",
+    "material": "Tela ligera acanalada",
+    "precio": 30000,
+    "imagen": "imagenes-web/tops-bodys/top-negro.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 231,
+    "categoria": "tops-bodys",
+    "nombre": "Top Dorado Encaje",
+    "talla": "S",
+    "material": "Encaje",
+    "precio": 40000,
+    "imagen": "imagenes-web/tops-bodys/top-dorado-encaje.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 232,
+    "categoria": "tops-bodys",
+    "nombre": "Blusa Negro Razo",
+    "talla": "M",
+    "material": "Razo",
+    "precio": 40000,
+    "imagen": "imagenes-web/tops-bodys/blusa-negro-razo.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 233,
+    "categoria": "tops-bodys",
+    "nombre": "Top Plateado Lentejuelas",
+    "talla": "S",
+    "material": "Lentejuelas",
+    "precio": 40000,
+    "imagen": "imagenes-web/tops-bodys/top-plateado-lentejuelas.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 234,
+    "categoria": "tops-bodys",
+    "nombre": "Top Chifón Estampado",
+    "talla": "S",
+    "material": "Chifón",
+    "precio": 40000,
+    "imagen": "imagenes-web/tops-bodys/top-chifon-estampado.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 235,
+    "categoria": "tops-bodys",
+    "nombre": "Top Satín Palo de Rosa",
+    "talla": "S",
+    "material": "Satín",
+    "precio": 30000,
+    "imagen": "imagenes-web/tops-bodys/top-satin-palo-de-rosa.webp",
+    "estado": "disponible"
+  },
+  {
+    "id": 236,
+    "categoria": "chalinas",
+    "nombre": "Set de Chalinas Surtidas",
+    "talla": null,
+    "material": "Variado: satín, seda, encaje, tejido con flecos",
+    "precio": 15000,
+    "precio_nota": "c/u",
+    "imagen": "imagenes-web/chalinas/set-chalinas.webp",
+    "estado": "disponible"
+  }
+]
