@@ -45,7 +45,7 @@
     "nombre": "Vestido Blonda Negra",
     "talla": "M",
     "material": "Blonda",
-    "precio": 180000,
+    "precio": 120000,
     "imagen": "imagenes-web/vestidos-largos/vestido-blonda-negra.webp",
     "estado": "disponible"
   },
@@ -55,7 +55,7 @@
     "nombre": "Escuba Azul Marino con Capa de Blonda",
     "talla": "S",
     "material": "Blonda y Escuba",
-    "precio": 220000,
+    "precio": 120000,
     "imagen": "imagenes-web/vestidos-largos/escuba-azul-marino-con-capa-de-blonda.webp",
     "estado": "disponible"
   },
@@ -75,7 +75,7 @@
     "nombre": "Chifón Azul Oscuro",
     "talla": "M",
     "material": "Chifón",
-    "precio": 2000000,
+    "precio": 200000,
     "imagen": "imagenes-web/vestidos-largos/chifon-azul-oscuro.webp",
     "estado": "disponible"
   },
@@ -195,7 +195,7 @@
     "nombre": "Chifón Agumarina",
     "talla": "S",
     "material": "Chifón",
-    "precio": 170000,
+    "precio": 120000,
     "imagen": "imagenes-web/vestidos-largos/chifon-agumarina.webp",
     "estado": "disponible"
   },
@@ -205,7 +205,7 @@
     "nombre": "Chifón Estampado",
     "talla": "M",
     "material": "Chifón",
-    "precio": 200000,
+    "precio": 120000,
     "imagen": "imagenes-web/vestidos-largos/chifon-estampado.webp",
     "estado": "disponible"
   },
@@ -215,7 +215,7 @@
     "nombre": "Satín Amarillo",
     "talla": "S",
     "material": "Satín",
-    "precio": 170000,
+    "precio": 120000,
     "imagen": "imagenes-web/vestidos-largos/satin-amarillo.webp",
     "estado": "disponible"
   },
@@ -225,7 +225,7 @@
     "nombre": "Chifón Estampado",
     "talla": "S/M",
     "material": "Chifón",
-    "precio": 200000,
+    "precio": 150000,
     "imagen": "imagenes-web/vestidos-largos/chifon-estampado-2.webp",
     "estado": "disponible"
   },
@@ -325,7 +325,7 @@
     "nombre": "Vestido Malla Tex",
     "talla": "S",
     "material": "Malla Tex",
-    "precio": 170000,
+    "precio": 100000,
     "imagen": "imagenes-web/vestidos-largos/vestido-malla-tex.webp",
     "estado": "disponible"
   },
@@ -365,7 +365,7 @@
     "nombre": "Vestido Satín Naranajl, con Bordado en Canutillo",
     "talla": "S",
     "material": "Satín y Bordado",
-    "precio": 180000,
+    "precio": 120000,
     "imagen": "imagenes-web/vestidos-largos/vestido-satin-naranajl-con-bordado-en-canutillo.webp",
     "estado": "disponible"
   },
@@ -375,7 +375,7 @@
     "nombre": "Vestido Morado con Degradado en Rosado",
     "talla": "S/M",
     "material": null,
-    "precio": 250000,
+    "precio": 120000,
     "imagen": "imagenes-web/vestidos-largos/vestido-morado-con-degradado-en-rosado.webp",
     "estado": "disponible"
   },
@@ -435,7 +435,7 @@
     "nombre": "Vestido Azul Rey Strech",
     "talla": "M",
     "material": "Strech",
-    "precio": 180000,
+    "precio": 120000,
     "imagen": "imagenes-web/vestidos-largos/vestido-azul-rey-strech.webp",
     "estado": "disponible"
   },
@@ -455,7 +455,7 @@
     "nombre": "Vestido Top Blanco de Encaje y Falda Plizada Azul Cielo",
     "talla": "S",
     "material": "Encaje",
-    "precio": 170000,
+    "precio": 120000,
     "imagen": "imagenes-web/vestidos-largos/vestido-top-blanco-de-encaje-y-falda-plizada-azul.webp",
     "estado": "disponible"
   },
@@ -505,7 +505,7 @@
     "nombre": "Vestido Estampado Beige con Mostaza",
     "talla": "M",
     "material": null,
-    "precio": 200000,
+    "precio": 120000,
     "imagen": "imagenes-web/vestidos-largos/vestido-estampado-beige-con-mostaza.webp",
     "estado": "disponible"
   },
@@ -605,7 +605,7 @@
     "nombre": "Vestido Negro Lurex",
     "talla": "M/L",
     "material": "Lurex",
-    "precio": 200000,
+    "precio": 120000,
     "imagen": "imagenes-web/vestidos-largos/vestido-negro-lurex.webp",
     "estado": "disponible"
   },
@@ -675,7 +675,7 @@
     "nombre": "Vestido Lurex Dorado con Negro",
     "talla": "L",
     "material": "Lurex",
-    "precio": 210000,
+    "precio": 180000,
     "imagen": "imagenes-web/vestidos-largos/vestido-lurex-dorado-con-negro.webp",
     "estado": "disponible"
   },
@@ -775,7 +775,7 @@
     "nombre": "Vestido Velvetín con Lurex",
     "talla": "S",
     "material": "Lurex",
-    "precio": 210000,
+    "precio": 150000,
     "imagen": "imagenes-web/vestidos-largos/vestido-velvetin-con-lurex.webp",
     "estado": "disponible"
   },
@@ -785,7 +785,7 @@
     "nombre": "Vestido Lurex Plateado",
     "talla": "M",
     "material": "Lurex",
-    "precio": 210000,
+    "precio": 180000,
     "imagen": "imagenes-web/vestidos-largos/vestido-lurex-plateado.webp",
     "estado": "disponible"
   },
@@ -855,7 +855,7 @@
     "nombre": "Vestido Vino Escuba",
     "talla": "M",
     "material": "Escuba",
-    "precio": 200000,
+    "precio": 150000,
     "imagen": "imagenes-web/vestidos-largos/vestido-vino-escuba.webp",
     "estado": "disponible"
   },
@@ -895,7 +895,7 @@
     "nombre": "Vestido Satín Azul Rey",
     "talla": "XS",
     "material": "Satín",
-    "precio": 190000,
+    "precio": 120000,
     "imagen": "imagenes-web/vestidos-largos/vestido-satin-azul-rey.webp",
     "estado": "disponible"
   },
@@ -1085,7 +1085,7 @@
     "nombre": "Vestido Blanco con Negro Encaje",
     "talla": "M",
     "material": "Encaje",
-    "precio": 90000,
+    "precio": 100000,
     "imagen": "imagenes-web/vestidos-cortos/vestido-blanco-con-negro-encaje.webp",
     "estado": "disponible"
   },
@@ -1095,7 +1095,7 @@
     "nombre": "Vestido Gris con Negro de Lentejuelas",
     "talla": "M",
     "material": "Lentejuelas",
-    "precio": 100000,
+    "precio": 80000,
     "imagen": "imagenes-web/vestidos-cortos/vestido-gris-con-negro-de-lentejuelas.webp",
     "estado": "disponible"
   },
@@ -1155,7 +1155,7 @@
     "nombre": "Vestido de Dorado con Negro Lentejuelas",
     "talla": "S",
     "material": "Lentejuelas",
-    "precio": 110000,
+    "precio": 150000,
     "imagen": "imagenes-web/vestidos-cortos/vestido-de-dorado-con-negro-lentejuelas.webp",
     "estado": "disponible"
   },
@@ -1185,7 +1185,7 @@
     "nombre": "Vestido Negro de Chifón con Cuello Plizado",
     "talla": "M",
     "material": "Chifón",
-    "precio": 150000,
+    "precio": 200000,
     "imagen": "imagenes-web/vestidos-cortos/vestido-negro-de-chifon-con-cuello-plizado.webp",
     "estado": "disponible"
   },
@@ -1205,7 +1205,7 @@
     "nombre": "Vestido Azul Marino de Tafetán y Encaje",
     "talla": "XS",
     "material": "Tafetán y Encaje",
-    "precio": 100000,
+    "precio": 80000,
     "imagen": "imagenes-web/vestidos-cortos/vestido-azul-marino-de-tafetan-y-encaje.webp",
     "estado": "disponible"
   },
@@ -1215,7 +1215,7 @@
     "nombre": "Vestido Estampado Blanco con Negro",
     "talla": "S",
     "material": null,
-    "precio": 60000,
+    "precio": 150000,
     "imagen": "imagenes-web/vestidos-cortos/vestido-estampado-blanco-con-negro.webp",
     "estado": "disponible"
   },
@@ -1335,7 +1335,7 @@
     "nombre": "Escuba Estampada",
     "talla": "S",
     "material": "Escuba",
-    "precio": 100000,
+    "precio": 80000,
     "imagen": "imagenes-web/vestidos-cortos/escuba-estampada.webp",
     "estado": "disponible"
   },
@@ -1355,7 +1355,7 @@
     "nombre": "Lurex Strech",
     "talla": "S/M",
     "material": "Lurex y Strech",
-    "precio": 60000,
+    "precio": 50000,
     "imagen": "imagenes-web/vestidos-cortos/lurex-strech.webp",
     "estado": "disponible"
   },
@@ -1375,7 +1375,7 @@
     "nombre": "Crepe Negro",
     "talla": "M",
     "material": "Crepe",
-    "precio": 70000,
+    "precio": 90000,
     "imagen": "imagenes-web/vestidos-cortos/crepe-negro.webp",
     "estado": "disponible"
   },
@@ -1445,7 +1445,7 @@
     "nombre": "Lentejuela Stretch",
     "talla": "L",
     "material": "Lentejuela y Stretch",
-    "precio": 80000,
+    "precio": 150000,
     "imagen": "imagenes-web/vestidos-cortos/lentejuela-stretch.webp",
     "estado": "disponible"
   },
@@ -1455,7 +1455,7 @@
     "nombre": "Lentejuela Vinotinto",
     "talla": "S/M",
     "material": "Lentejuela",
-    "precio": 100000,
+    "precio": 80000,
     "imagen": "imagenes-web/vestidos-cortos/lentejuela-vinotinto.webp",
     "estado": "disponible"
   },
@@ -1465,7 +1465,7 @@
     "nombre": "Escuba Stretch Estampada",
     "talla": "XS",
     "material": "Stretch y Escuba",
-    "precio": 70000,
+    "precio": 50000,
     "imagen": "imagenes-web/vestidos-cortos/escuba-stretch-estampada.webp",
     "estado": "disponible"
   },
@@ -1525,7 +1525,7 @@
     "nombre": "Lentejuela Azul Marino",
     "talla": "S",
     "material": "Lentejuela",
-    "precio": 100000,
+    "precio": 150000,
     "imagen": "imagenes-web/vestidos-cortos/lentejuela-azul-marino.webp",
     "estado": "disponible"
   },
@@ -1565,7 +1565,7 @@
     "nombre": "Blonda Palo de Rosa",
     "talla": "S",
     "material": "Blonda",
-    "precio": 80000,
+    "precio": 50000,
     "imagen": "imagenes-web/vestidos-cortos/blonda-palo-de-rosa.webp",
     "estado": "disponible"
   },
@@ -2087,7 +2087,7 @@
     "material": "Tweed estilo Channel",
     "precio": 70000,
     "imagen": "imagenes-web/chaquetas/chaqueta-channel.webp",
-    "estado": "agotado"
+    "estado": "disponible"
   },
   {
     "id": 210,
