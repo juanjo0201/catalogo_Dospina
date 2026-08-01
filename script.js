@@ -1,6 +1,3 @@
-// ============================================
-// D'OSPINA ALTA COSTURA — LÓGICA DEL CATÁLOGO
-// ============================================
 
 let PRODUCTOS = [];
 let productosFiltrados = [];
