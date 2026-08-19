@@ -25,7 +25,7 @@
     "nombre": "Crepe Azul",
     "talla": "M",
     "material": "Crepe",
-    "precio": 170000,
+    "precio": 150000,
     "imagen": "imagenes-web/vestidos-largos/crepe-azul.webp",
     "estado": "disponible"
   },
@@ -45,7 +45,7 @@
     "nombre": "Vestido Blonda Negra",
     "talla": "M",
     "material": "Blonda",
-    "precio": 120000,
+    "precio": 100000,
     "imagen": "imagenes-web/vestidos-largos/vestido-blonda-negra.webp",
     "estado": "disponible"
   },
@@ -85,7 +85,7 @@
     "nombre": "Vestido en Licra Espejo",
     "talla": "M",
     "material": "Licra",
-    "precio": 210000,
+    "precio": 180000,
     "imagen": "imagenes-web/vestidos-largos/vestido-en-licra-espejo.webp",
     "estado": "disponible"
   },
@@ -115,7 +115,7 @@
     "nombre": "Chifón Plisado Azul Rey",
     "talla": "M",
     "material": "Chifón",
-    "precio": 200000,
+    "precio": 120000,
     "imagen": "imagenes-web/vestidos-largos/chifon-plisado-azul-rey.webp",
     "estado": "disponible"
   },
@@ -165,7 +165,7 @@
     "nombre": "Chifón Bordado con Flores de Lentejuelas y Canutillos",
     "talla": "M",
     "material": "Lentejuelas y Chifón y Bordado",
-    "precio": 200000,
+    "precio": 150000,
     "imagen": "imagenes-web/vestidos-largos/chifon-bordado-con-flores-de-lentejuelas-y-canutil.webp",
     "estado": "disponible"
   },
@@ -195,7 +195,7 @@
     "nombre": "Chifón Agumarina",
     "talla": "S",
     "material": "Chifón",
-    "precio": 120000,
+    "precio": 100000,
     "imagen": "imagenes-web/vestidos-largos/chifon-agumarina.webp",
     "estado": "disponible"
   },
@@ -215,7 +215,7 @@
     "nombre": "Satín Amarillo",
     "talla": "S",
     "material": "Satín",
-    "precio": 120000,
+    "precio": 100000,
     "imagen": "imagenes-web/vestidos-largos/satin-amarillo.webp",
     "estado": "disponible"
   },
@@ -365,7 +365,7 @@
     "nombre": "Vestido Satín Naranajl, con Bordado en Canutillo",
     "talla": "S",
     "material": "Satín y Bordado",
-    "precio": 120000,
+    "precio": 100000,
     "imagen": "imagenes-web/vestidos-largos/vestido-satin-naranajl-con-bordado-en-canutillo.webp",
     "estado": "disponible"
   },
@@ -455,7 +455,7 @@
     "nombre": "Vestido Top Blanco de Encaje y Falda Plizada Azul Cielo",
     "talla": "S",
     "material": "Encaje",
-    "precio": 120000,
+    "precio": 100000,
     "imagen": "imagenes-web/vestidos-largos/vestido-top-blanco-de-encaje-y-falda-plizada-azul.webp",
     "estado": "disponible"
   },
@@ -865,7 +865,7 @@
     "nombre": "Vestido Negro Chifón",
     "talla": "S",
     "material": "Chifón",
-    "precio": 170000,
+    "precio": 120000,
     "imagen": "imagenes-web/vestidos-largos/vestido-negro-chifon-3.webp",
     "estado": "disponible"
   },
@@ -1215,7 +1215,7 @@
     "nombre": "Vestido Estampado Blanco con Negro",
     "talla": "S",
     "material": null,
-    "precio": 150000,
+    "precio": 50000,
     "imagen": "imagenes-web/vestidos-cortos/vestido-estampado-blanco-con-negro.webp",
     "estado": "disponible"
   },
