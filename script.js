@@ -415,3 +415,50 @@ function ajustarPosicionFiltros() {
 
 window.addEventListener("load", ajustarPosicionFiltros);
 window.addEventListener("resize", ajustarPosicionFiltros);
+
+// ---------- PANCARTA PROMOCIONAL AL CARGAR ----------
+function configurarPancartaPromo() {
+  const banner = document.getElementById("promo-banner");
+  const cerrar = document.getElementById("promo-banner-cerrar");
+  const link = document.getElementById("promo-banner-link");
+  if (!banner || !cerrar || !link) return;
+
+  const yaVista = sessionStorage.getItem("promoBannerVista");
+  if (yaVista) return;
+
+  banner.hidden = false;
+  requestAnimationFrame(() => {
+    banner.classList.add("promo-banner-visible");
+  });
+
+  const mensaje = encodeURIComponent(
+    "¡Hola! Vi la promoción de vestidos de fiesta y quiero más información 💕",
+  );
+  link.href = `https://wa.me/${CONFIG.whatsapp}?text=${mensaje}`;
+  link.target = "_blank";
+  link.rel = "noopener";
+
+  function cerrarPancarta() {
+    sessionStorage.setItem("promoBannerVista", "1");
+    banner.classList.remove("promo-banner-visible");
+    banner.addEventListener(
+      "transitionend",
+      () => {
+        banner.hidden = true;
+      },
+      { once: true },
+    );
+  }
+
+  cerrar.addEventListener("click", (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    cerrarPancarta();
+  });
+
+  link.addEventListener("click", () => {
+    sessionStorage.setItem("promoBannerVista", "1");
+  });
+}
+
+document.addEventListener("DOMContentLoaded", configurarPancartaPromo);
